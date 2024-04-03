@@ -1,2 +1,2 @@
 # hello-world
-This is a repository strictly for practising the GitHub Flow
+This is a repository strictly for practicing the GitHub Flow
